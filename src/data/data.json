@@ -1,0 +1,154 @@
+{
+  "Header": {
+    "title": "The Financial Success Roadmap",
+    "paragraph": "We chart your course to financial success, building bridges to a secure and prosperous future. Your personalized roadmap to financial freedom, guiding you every step of the way."
+  },
+  "About": {
+    "paragraph": "Our vision is to be a trusted financial services provider that creates sustainable value for its stakeholders.",
+    "Why": [
+      "aims to promote entrepreneurship and innovation.",
+      "aims to provide financial services to the common person."
+    ],
+    "Why2": [
+      "aims to promote economic development and growth."
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Home Loan",
+      "text": "Eligible borrowers can avail Home Loan with an attractive interest rate, low Equated Monthly Instalments (EMIs) and no pre-payment charges on floating Home Loan interest rates. Flexible loan tenure with easy repayment options."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Personal Loan",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"The product is very flexible and the product team is open to customize the product as per the needs of the business.\"",
+      "name": "Krishna Sharma - Noida"
+    },
+    {
+      "img": "img/testimonials/chittrang.jpeg",
+      "text": "\"The P&C Finance App makes it easy to pay EMIs from anywhere, anytime.\"",
+      "name": "Chittrang Mishra"
+    },
+    {
+      "img": "img/testimonials/sandeep.jpg",
+      "text": "\" The PandC app offers home loans at low interest rates.Its services are good for entrepreneurs, business families, and professionals.\"",
+      "name": "Sandeep Sharma - Firozabad"
+    },
+    {
+      "img": "img/testimonials/",
+      "text": "\"They were very helpful plus answered all my questions and also very clear in describing my bike policy.\"",
+      "name": "Ananya Singhania - Mumbai"
+    },
+    {
+      "img": "img/testimonials/vivek.jpeg",
+      "text": "\"I received the call from Shriram finance, they have offered me a personal loan which I accepted. The executive came and collected the documents the very next day. The process took only 48 hours and the loan amount got disbursed. The process was easy and no issues.\"",
+      "name": "Dhanraj Singh - Agra"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Instant Sanction",
+      "text": "Get instant provisional sanction in few steps."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Zero Foreclosure Charges",
+      "text": "Applicable only for Home Loan with floating rate of interest."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Vast database of Approved Projects",
+      "text": "Explore vast database of ICICI Bank approved projects."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Attractive Interest Rate",
+      "text": "Repo rate linked interest rates."
+    }
+  ]
+}
