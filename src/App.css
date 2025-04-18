@@ -16,3 +16,35 @@
     width: 110%;
   }
 }
+
+/* Default styles */
+#root {
+  width: fit-content;
+}
+
+.img-responsive, 
+.thumbnail > img, 
+.thumbnail a > img, 
+.carousel-inner > .item > img, 
+.carousel-inner > .item > a > img {
+  display: unset;
+  max-width: fit-content;
+  height: auto;
+}
+
+/* Media Query for tablets (up to 1024px) and phones (up to 768px) */
+@media (max-width: 1024px) {
+  #root {
+      width: 100%; /* Make it expand to container width on smaller devices */
+  }
+
+  .img-responsive, 
+  .thumbnail > img, 
+  .thumbnail a > img, 
+  .carousel-inner > .item > img, 
+  .carousel-inner > .item > a > img {
+      max-width: 100%; /* Make images responsive */
+      height: auto;
+  }
+}
+
