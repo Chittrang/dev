@@ -34,9 +34,9 @@
 
 /* Media Query for tablets (up to 1024px) and phones (up to 768px) */
 @media (max-width: 1024px) {
-  #root {
-      width: 100%; /* Make it expand to container width on smaller devices */
-  }
+  /* #root {
+      width: 100%; 
+  } */
 
   .img-responsive, 
   .thumbnail > img, 
